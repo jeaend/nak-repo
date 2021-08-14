@@ -6,3 +6,5 @@
 rebasee 1
 rebase 2
 rebase 3
+change to stash
+cherry 1
