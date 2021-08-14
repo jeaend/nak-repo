@@ -8,3 +8,5 @@ rebase 2
 rebase 3
 change to stash
 cherry 1
+cherry 2
+
