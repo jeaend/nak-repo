@@ -1,4 +1,4 @@
-1st change change in master branch
+1st change in feature branch
 2nd change
 3rd change
 1st change in feature/123
